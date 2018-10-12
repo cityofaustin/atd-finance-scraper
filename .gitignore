@@ -1,0 +1,4 @@
+*secrets*
+*.csv
+*__pycache__*
+.DS_Store
