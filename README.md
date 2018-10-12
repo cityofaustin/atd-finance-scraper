@@ -1,4 +1,4 @@
-# controller-data-scraper
+# finance-scraper
 This repo houses Python utilities for scraping accounting codes from the Controller's Office Intranet for the purpose systems integration.
 
 ## Quick Start
