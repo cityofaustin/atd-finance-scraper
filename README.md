@@ -21,7 +21,7 @@ KNACK_CREDENTIALS = {
 }
 ```
 
-3. Update `config.py` with your Knack scene, view, and reference objects (see [knackpy](http://github.com/cityofaustin/knackpy) docs)
+3. Update `config.py` with your Knack scene, view, and reference objects (see [knackpy](http://github.com/cityofaustin/knackpy) docs).
 
 4. Pass a resource name and app name to the scripts:
 
