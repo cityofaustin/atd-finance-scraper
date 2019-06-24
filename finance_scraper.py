@@ -1,7 +1,7 @@
 """
 Scrape financial codes from COA Controller website and upload to Knack application.
 """
-from tdutils import datautil
+import datautil
 
 from config import CFG
 from secrets import *
